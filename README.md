@@ -1,4 +1,4 @@
-<img src = "coins.gif" width= 98%>
+<img src = "coin.gif" width= 98%>
 
 ## Goal
 Enable a user to enter any crytocurrency and receive today's standings on that given currency.
